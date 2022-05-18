@@ -1,0 +1,81 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Two Traditional Korean Songs</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11632</md:content-id>
+  <md:title>Two Traditional Korean Songs</md:title>
+  <md:abstract>For elementary school students, some traditional Korean songs to sing in Korean and English.</md:abstract>
+  <md:uuid>2d74c320-b601-4d8c-9be6-02d993c6af75</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11873/latest/" strength="3">A Pentatonic Scale Activity</link>
+      <link url="http://cnx.rice.edu/content/m11636/latest/" strength="2">Scales that aren't Major or Minor</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+         <para id="p0a">
+These songs may be used as part of a music class, for performance (particularly in a "multi-cultural" concert), or as part of a social studies unit on eastern Asia.
+         </para>
+
+		<list id="l1c"><title>Some Suggestions for Performance</title><item>
+"Arirang" is so popular in Korea that it might be called the national folk song. The words have to do with the longing and weary feeling of having been jilted by a lover, so this is a good one for children to sing in Korean, not in translation.
+			</item>
+			<item>
+The "Doraji" of the second song is a beautiful wild flower. A singable translation has been provided. You can sing it in Korean, English, or both.
+			</item>
+			<item>
+The accompaniment included here for "Arirang" should be quiet and understated. It may be played very softly on the piano, or, even better, can be played (it is very simple) by students on handbells or xylophones, or plucked string instruments. 
+</item>
+<item>A performance of these tunes with no accompaniment, or with a quiet percussion-only accompaniment, can be very effective. Typical Korean percussion instruments include a great variety of drums and small gongs, usually played with beaters rather than bare hands.
+                        </item>
+		</list>
+
+			<para id="p2a">
+<note id="id1164688938762">Singing these melodies without any harmony or chordal accompaniment is a very authentic performance style. If you do not read music and need to learn the melody, listen to <link resource="Arirang.MID">Arirang</link> and <link resource="Doraji.MID">Doraji</link>. I hope to soon include a recording of the songs sung in Korean by Koreans.</note>
+			</para>
+		
+		<list id="l1b">
+			<title>Notes on Pronunciation</title>
+			<item>
+The pronunciation has been simplified a little and written out for English speakers.<note id="id1164688794996">Please note that I am not using the internationally-accepted method for spelling Korean words using the Roman alphabet. I believe these spellings will be a little more intuitive for young English-speakers.</note>
+			</item>
+			<item>
+"A" is the "ah" sound in "lot" or "call".
+			</item>
+			<item>
+"Aw" is the deeper-in-the-throat sound in "haunt" or "lawn".
+			</item>
+			<item>
+"I" is the "ee" sound as in "machine".
+			</item>
+			<item>
+"O" is long as in "cold".
+			</item>
+			<item>
+"U" is the sound in "pull"; "uh" is the sound in "run".
+			</item>
+                        <item>
+"E" is the "eh" sound in "let".
+                        </item>
+			<item>
+"R" is lightly tongued as it is in Spanish, not the heavy English "r".
+			</item>
+		</list>
+
+		<para id="eip-145">You can download PDFs of <link url="ArirangEdit.pdf">Arirang-first page</link>, <link url="Arirang2edit.pdf">Arirang-second page</link>, <link url="Doraji1edit.pdf">Doraji-first page</link>, and <link url="Doraji2edit.pdf">Doraji-second page</link>.</para><figure id="fig1a"><media id="id6571766" alt=""><image src="../../media/ArirangEdit.png" mime-type="image/png"/></media>
+		</figure>
+
+                <figure id="fig1d"><media id="id1164689686235" alt=""><image src="../../media/Arirang2edit.png" mime-type="image/png"/></media>
+		</figure>
+
+		<figure id="fig1b"><media id="id1164688986296" alt=""><image src="../../media/Doraji1edit.png" mime-type="image/png"/></media>
+                </figure>
+                 <figure id="fig1c"><media id="id7105501" alt=""><image src="../../media/doraji2edit.png" mime-type="image/png"/></media>
+                 </figure></content>
+  
+</document>

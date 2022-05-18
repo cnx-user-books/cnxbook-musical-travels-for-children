@@ -1,0 +1,61 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10221</md:content-id>
+    <md:title>Musical Travels for Children</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>4355578d-59b4-4c56-8f84-3db0648cdfd6</md:uuid>
+<md:slug>musical-travels-for-children</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Europe</md:title>
+      <col:content>
+        <col:module document="m11025"/>
+        <col:module document="m11029"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Asia</md:title>
+      <col:content>
+        <col:module document="m11632"/>
+        <col:module document="m12632"/>
+        <col:module document="m11873"/>
+        <col:module document="m15796"/>
+        <col:module document="m15798"/>
+        <col:module document="m15795"/>
+        <col:module document="m15799"/>
+        <col:module document="m15800"/>
+        <col:module document="m15797"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Africa</md:title>
+      <col:content>
+        <col:module document="m11422"/>
+        <col:module document="m11872"/>
+        <col:module document="m12601"/>
+        <col:module document="m17424"/>
+        <col:module document="m17549"/>
+        <col:module document="m17623"/>
+        <col:module document="m29609"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Americas</md:title>
+      <col:content>
+        <col:module document="m11688"/>
+        <col:module document="m12599"/>
+        <col:module document="m12609"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Australia</md:title>
+      <col:content>
+        <col:module document="m16918"/>
+        <col:module document="m16940"/>
+        <col:module document="m16919"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

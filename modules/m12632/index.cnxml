@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Japanese Music: Some Songs for Children</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12632</md:content-id>
+  <md:title>Japanese Music: Some Songs for Children</md:title>
+  <md:abstract>Here are four songs from Japan that young children from any culture may enjoy.</md:abstract>
+  <md:uuid>0266e0bb-835d-4295-b4d6-90ec38a92305</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.rice.edu/content/m11636/latest/" strength="3">Scales that aren't Major or Minor</link>
+      <link url="http://cnx.rice.edu/content/m11873/latest/" strength="2">A Pentatonic Scale Activity</link>
+      <link url="http://cnx.rice.edu/content/m11632/latest/" strength="2">Two Traditional Korean Songs</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">
+Here are four Japanese folk songs that you can teach to young children of any culture. All were published, including accompaniment and English translations, in Florence Hudson Botsford's <cite><cite-title>Folk Songs of Many Peoples</cite-title></cite> in 1922, and so are considered in the public domain in the U.S.
+    </para>
+    <list id="p0b">
+      <title>Suggested Uses for this Module</title>
+      <item>
+<emphasis>Music class</emphasis>
+      </item>
+      <item>
+<emphasis>Children's Concert</emphasis> - Particularly a multicultural concert. "Cherry Blooms" is particularly appropriate for springtime."Counting Song" is particularly appropriate for celebrations of east Asian (Lunar) New Year, which falls in late winter.
+      </item>
+      <item>
+<emphasis>Social Studies</emphasis> - As part of a unit on Japan or Eastern Asia.
+      </item>
+      <item>
+<emphasis>Lunar New Year Celebrations</emphasis> - "Counting Song" is meant to be sung at the Lunar New Year, a major holiday in many east Asian countries. Its exact date on the Western calendar varies from year to year, but it falls in late winter.
+      </item>
+      <item>
+<emphasis>Literature</emphasis> - "The Rabbit and the Turtle" is a children's song based on the familiar fable. You may want to include it if your class is studying fables.
+      </item>
+    </list>
+
+    <list id="l0a">
+      <title>Notes on using these Songs</title>
+      <item>
+You can make copies of the scores below, but if you can open these PDF files, they will probably give you better copies: <link resource="CBlooms2.pdf">Cherry Blooms</link>, <link resource="RabbitTurtle.pdf">The Rabbit and the Turtle</link>, <link resource="Moon1.pdf">The Moon, page 1</link>, <link resource="Moon2.pdf">The Moon, page 2</link>, <link resource="CountingSong1.pdf">Counting Song, page 1</link>, <link resource="CountingSong2.pdf">Counting Song, page 2</link>.
+      </item>
+      <item>
+Grace Hazard Conkling wrote the English versions of "The Rabbit and the Turtle" and "The Moon". Edwin Markham wrote the English words to "Cherry Blooms". Shigeyoshi Obata provided the translation of "The Counting Song".
+      </item>
+      <item>
+In case you can't read music, you can listen to the tunes: <link resource="CherryBlooms.MID">Cherry Blooms</link>, <link resource="RabbitTurtle.MID">The Rabbit and the Turtle</link>, <link resource="Moon.MID">The Moon</link>, <link resource="CountingSong.MID">Counting Song</link>
+      </item>
+      <item>
+I have included the accompaniments in case you want a public-domain piano accompaniment for the songs, but I do not recommend that you use them. All four songs are <link document="m11636" target-id="s1">pentatonic</link>. The accompaniments, however, are not pentatonic, and, to my ear, they obscure the original flavor of the tunes too much. I recommend singing them unaccompanied, or with a simple accompaniment of percussion and/or <link document="m11654" target-id="l0a">drone</link> notes taken from the scale that the melody uses.
+      </item>
+      <item>
+When performing "The Rabbit and the Turtle", you may want to add actions or gestures and substitute more familiar syllables or sounds for the "snoring" and "hopping" parts of the tune, and/or divide the class so that a soloist or small group takes the turtle's part of the song at the end.
+      </item>
+      <item>
+Pronunciation of Romanized Japanese text for English speakers: "a" as in "ball", "i" as in "machine", "o" as in "hope", "u" as in "rule", and the lone "ha" is pronounced "wa".
+      </item>
+    </list>
+
+    <para id="p0d">
+You may want to point out to the students that the text of the second verse of "Cherry Blooms" is a <term>Romanized</term> version of the Japanese text; it is written out phonetically in Roman letters so that people who don't read Japanese can "sound it out". Here is the Japanese text for "Cherry Blooms".
+    </para>
+    <para id="p0c">
+   さくら　さくら
+     やよいの空は
+     見わたすかぎり
+   　かすみか雲か
+  　 匂いぞ（においぞ）
+　   出ずる（いずる）
+  　 いざや　いざや
+　   見にゆかん
+
+    </para>
+
+    <figure id="fig0a">
+      <media id="id37354210" alt=""><image src="../../media/CBlooms2.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0c">
+      <media id="id45271562" alt=""><image src="../../media/RabbitTurtle.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d">
+      <media id="id39504731" alt=""><image src="../../media/Moon1.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0e">
+      <media id="id43295642" alt=""><image src="../../media/Moon2.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0f">
+      <media id="id43480808" alt=""><image src="../../media/CountingSong1.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0g">
+      <media id="id42918647" alt=""><image src="../../media/CountingSong2.png" mime-type="image/png"/></media>
+    </figure></content>
+  
+</document>
